@@ -6,5 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/SteamAudioFMODTest/TestScene.unity
+    path: Assets/SteamAudioFMODTest/TestScene_A.unity
     guid: 6aef8a7ca27e70441b85f4097b11e3c0
+  - enabled: 1
+    path: Assets/SteamAudioFMODTest/TestScene_B.unity
+    guid: cb6a07209de18024d9bde9358be8effd
